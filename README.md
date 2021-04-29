@@ -11,7 +11,7 @@
 -  ![image](https://user-images.githubusercontent.com/8803501/116513568-ff610600-a8f3-11eb-97d4-8b883eeb4982.png)
 
 
-- ทำการคัดลอกโค้ดตัวอย่างและทำการอัพโหลดลงบอร์ด Raspberry Pi Pico โดยการกดปุ่ม BOOTSEL ค้างไว้ จากนั้นเลือกบอร์ดเป็น Raspberry Pi Pico แล้วทำการอัพโหลดโค้ด (ไม่ต้องเลือก comport)
+- ทำการคัดลอกโค้ดตัวอย่างและทำการอัพโหลดลงบอร์ด Raspberry Pi Pico โดยการกดปุ่ม BOOTSEL ค้างไว้ก่อนเสียบสาย Micro USB จากนั้นเลือกบอร์ดเป็น Raspberry Pi Pico แล้วทำการอัพโหลดโค้ด (ไม่ต้องเลือก comport)
 
 การต่อวงจร (Connection)
 
