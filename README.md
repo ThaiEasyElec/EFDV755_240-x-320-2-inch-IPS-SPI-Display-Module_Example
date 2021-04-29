@@ -7,6 +7,10 @@
 ![image](https://user-images.githubusercontent.com/8803501/116513024-2b2fbc00-a8f3-11eb-94be-5bbba5c4271a.png)
 
 
+-  ทำการติดตั้ง Library ที่ชื่อว่า Adafruit GFX library 
+-  ![image](https://user-images.githubusercontent.com/8803501/116513568-ff610600-a8f3-11eb-97d4-8b883eeb4982.png)
+
+
 - ทำการคัดลอกโค้ดตัวอย่างและทำการอัพโหลดลงบอร์ด Raspberry Pi Pico โดยการกดปุ่ม BOOTSEL ค้างไว้ จากนั้นเลือกบอร์ดเป็น Raspberry Pi Pico แล้วทำการอัพโหลดโค้ด (ไม่ต้องเลือก comport)
 
 การต่อวงจร (Connection)
